@@ -1,8 +1,13 @@
-![](./icons/icon128.png)
+<div align="center">
+  <img src="./icons/icon128.png" alt="Eslide Logo" width="80" height="80">
+  <h1>Eslide</h1>
+  <p><strong>AI生成幻灯片编辑工具插件</strong>
+  <p>
+    <a href="https://chromewebstore.google.com/detail/eslide%EF%BC%9A%E6%96%B9%E4%BE%BF%E7%BC%96%E8%BE%91%E7%BD%91%E9%A1%B5%E5%B9%BB%E7%81%AF%E7%89%87/fhjdnlijieklcjfgnmoidinfoeiedjlc?hl=zh-CN&utm_source=ext_sidebar"><img src="https://img.shields.io/badge/Chrome-安装-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
+  </p>
+</div>
 
 [插件宣传网站](https://fivelab.xiangsuliu.com/eslide/)
-
-[谷歌插件](https://chromewebstore.google.com/detail/eslide%EF%BC%9A%E6%96%B9%E4%BE%BF%E7%BC%96%E8%BE%91%E7%BD%91%E9%A1%B5%E5%B9%BB%E7%81%AF%E7%89%87/fhjdnlijieklcjfgnmoidinfoeiedjlc?hl=zh-CN&utm_source=ext_sidebar)
 
 ## 概述
 

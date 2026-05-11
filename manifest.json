@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_name__",
+  "version": "1.1.0",
+  "description": "__MSG_description__",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Eslide - 点击开始编辑"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "zh_CN"
+}

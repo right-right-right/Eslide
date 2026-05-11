@@ -1,3 +1,9 @@
+![](./icons/icon128.png)
+
+[插件宣传网站](https://fivelab.xiangsuliu.com/eslide/)
+
+[谷歌插件](https://chromewebstore.google.com/detail/eslide%EF%BC%9A%E6%96%B9%E4%BE%BF%E7%BC%96%E8%BE%91%E7%BD%91%E9%A1%B5%E5%B9%BB%E7%81%AF%E7%89%87/fhjdnlijieklcjfgnmoidinfoeiedjlc?hl=zh-CN&utm_source=ext_sidebar)
+
 ## 概述
 
 一键编辑AI生成的HTML/SVG幻灯片中的文字，就像编辑PPT一样简单
